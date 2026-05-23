@@ -7,7 +7,7 @@
 - ---
 -  🌱 I’m currently learning **OOP With Java**
 
-- 📫 How to reach me **realmadhuranjana@gmail.com**
+- 📫 How to reach me **it25103777@my.sliit.lk**
 
 - ⚡ Fun fact **call me as Nayana**
 - ---
