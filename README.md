@@ -7,6 +7,8 @@
 - ---
 -  🌱 I’m currently learning **OOP With Java**
 
+-  🧑‍🎓 I’m an Undergraduate at SLIIT
+
 - 📫 How to reach me **it25103777@my.sliit.lk**
 
 - ⚡ Fun fact **call me as Nayana**
